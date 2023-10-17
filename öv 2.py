@@ -6,3 +6,6 @@ if len(strang1) == len(strang2):
 
 if strang1 == strang2:
     print("Samma!")
+
+
+# test2
